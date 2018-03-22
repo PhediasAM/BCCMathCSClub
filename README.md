@@ -1,7 +1,20 @@
+
 # BCCMathCSClub
 
+<h1>text</h1>
 
-This is Phedias: https://github.com/PhediasAM/MyFirstRepo
+## Bye World!
+
+[TryGit](https://try.github.io)
+
+#### CS is the Best
+# BCCMathCSClub
+
+# BCCMathCSClub
+
+On my way to MIT :)
+
+This is Phedias:[MyFirstRepo](https://github.com/PhediasAM/MyFirstRepo) 
 
 IM HUNGRY!
 
@@ -17,4 +30,6 @@ what a time to be alive to have lived when so many have died (ALBERTO WAS HERE)
 
 #Let's fix the conflict by pressing the 'Resolve conflicts' button
 
-
+A | B
+--- | ---
+1 | 2
