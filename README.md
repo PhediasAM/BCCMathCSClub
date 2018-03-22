@@ -12,7 +12,7 @@
 
 On my way to MIT :)
 
-This is Phedias: https://github.com/PhediasAM/MyFirstRepo
+This is Phedias:[MyFirstRepo](https://github.com/PhediasAM/MyFirstRepo) 
 
 IM HUNGRY!
 
