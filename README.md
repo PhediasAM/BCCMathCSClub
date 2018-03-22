@@ -1,10 +1,11 @@
 
 # BCCMathCSClub
 
-# Bye World!
+## Bye World!
 
+[TryGit](https://try.github.io)
 
-# CS is the Best
+#### CS is the Best
 # BCCMathCSClub
 
 # BCCMathCSClub
@@ -27,3 +28,6 @@ what a time to be alive to have lived when so many have died (ALBERTO WAS HERE)
 
 #Let's fix the conflict by pressing the 'Resolve conflicts' button
 
+A | B
+--- | ---
+1 | 2
