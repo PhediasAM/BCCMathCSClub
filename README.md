@@ -1,3 +1,7 @@
+
+# CS is the Best
+# BCCMathCSClub
+
 # BCCMathCSClub
 
 On my way to MIT :)
@@ -17,4 +21,5 @@ what a time to be alive to have lived when so many have died (ALBERTO WAS HERE)
 
 
 #Let's fix the conflict by pressing the 'Resolve conflicts' button
+
 
